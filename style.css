@@ -29,3 +29,14 @@ h1, h2 {
 tr:hover {
     background-color: lightpink;
 }
+
+#moreImages {
+    text-align: left;
+    background-color: lightsteelblue;
+    opacity: 50%;
+    
+}
+
+#moreImages:hover {
+    opacity: 100%;
+}
