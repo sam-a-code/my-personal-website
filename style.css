@@ -5,7 +5,7 @@ body {
     margin: 30px;
 }
 
-h1, h2, h3 {
+h1, h2 {
     text-align: center;
     font-family: verdana;
 }
@@ -14,4 +14,18 @@ h1, h2, h3 {
     font-family: verdana;
     text-align: center;
     margin: 30px;
+    padding: 50px;
+    background-color: white;
+    border-spacing: 500px;
+}
+
+.tableRows {
+    padding-left: 100px;
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+}
+
+tr:hover {
+    background-color: lightpink;
 }
